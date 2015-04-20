@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">MyFriendAvatar</string>
+    <string name="unConnectInternet">جهت دریافت تصاویر به اینترنت متصل شوید</string>
+    <string name="header1">جهت دریافت تصاویر</string>
+
+    <string name="setting_summary">در صورت وجود تصویر جدید، تصویر قبلی حذف شود</string>
+    <string name="setting_title">حذف تصاویر قبلی</string>
+    
+    
+</resources>
